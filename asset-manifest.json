@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.fb3cf585.css",
-    "main.js": "/my-app/static/js/main.bfd7275b.js",
-    "static/js/787.719ec76d.chunk.js": "/my-app/static/js/787.719ec76d.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.fb3cf585.css.map": "/my-app/static/css/main.fb3cf585.css.map",
-    "main.bfd7275b.js.map": "/my-app/static/js/main.bfd7275b.js.map",
-    "787.719ec76d.chunk.js.map": "/my-app/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/React-Course/static/css/main.fb3cf585.css",
+    "main.js": "/React-Course/static/js/main.130187ca.js",
+    "static/js/787.719ec76d.chunk.js": "/React-Course/static/js/787.719ec76d.chunk.js",
+    "index.html": "/React-Course/index.html",
+    "main.fb3cf585.css.map": "/React-Course/static/css/main.fb3cf585.css.map",
+    "main.130187ca.js.map": "/React-Course/static/js/main.130187ca.js.map",
+    "787.719ec76d.chunk.js.map": "/React-Course/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb3cf585.css",
-    "static/js/main.bfd7275b.js"
+    "static/js/main.130187ca.js"
   ]
 }
